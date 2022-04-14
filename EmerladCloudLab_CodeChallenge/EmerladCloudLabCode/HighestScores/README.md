@@ -1,5 +1,5 @@
 ## Path
-Change the data file path befoe you run the code.
+Change the data file path before you run the code.
 
 ## Download
 Must download the org.json
